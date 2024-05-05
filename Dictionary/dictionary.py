@@ -1,3 +1,6 @@
+##  pip install Pillow
+## pip install PyDictionary  (Run this in shell)
+
 from tkinter import *
 import tkinter as tk
 from tkinter import ttk
